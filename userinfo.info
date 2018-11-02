@@ -1,0 +1,7 @@
+{
+     "url": "a.b.c.d:port",
+     "sshuser":"user",
+     "sshpasswd":"userpassword"
+}
+
+
